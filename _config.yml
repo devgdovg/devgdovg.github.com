@@ -10,8 +10,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Winter Stewman's Blog 冬日煮男的博客
+tagline: 突破，走出每一步
 author :
   name : Name Lastname
   email : blah@email.test
