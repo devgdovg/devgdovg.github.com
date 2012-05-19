@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "failed_in_the_interview_by_wandoujia"
+title: "面试豌豆荚失败"
 description: ""
-category: 
-tags: []
+category: 随想
+tags: [工作]
 ---
 {% include JB/setup %}
 
